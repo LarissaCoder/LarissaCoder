@@ -11,3 +11,7 @@
 
 [![LarissaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissacoder&repo=github-readme-stats&cache_seconds=86400&theme=omni)](https://github.com/LarissaCoder/LarissaCoder/github-readme-stats)
 
+[![LarissaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissacoder&repo=github-readme-stats&cache_seconds=86400&theme=neon)](https://github.com/LarissaCoder/LarissaCoder/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larissacoder&repo=github-readme-stats&cache_seconds=86400&theme=neon)](https://github.com/larissacoder/github-readme-stats)
+
