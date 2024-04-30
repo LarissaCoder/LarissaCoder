@@ -8,3 +8,6 @@
 - 📫 Reach me at: [larissasilva2709@gmail.com](mailto:larissasilva2709@gmail.com) | [LinkedIn](https://www.linkedin.com/in/larissa-regina-da-silva)
 
 [![LarissaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissacoder&repo=github-readme-stats&cache_seconds=86400&theme=date_night)](https://github.com/LarissaCoder/LarissaCoder/github-readme-stats)
+
+[![LarissaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissacoder&repo=github-readme-stats&cache_seconds=86400&theme=omni)](https://github.com/LarissaCoder/LarissaCoder/github-readme-stats)
+
