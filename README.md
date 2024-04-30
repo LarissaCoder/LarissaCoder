@@ -9,4 +9,4 @@
 
 [![LarissaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=date_night))](https://github.com/anuraghazra/github-readme-stats)
 
-[![LarissaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=date_night))](https://github.com/anuraghazra/github-readme-stats)]
+[![LarissaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=date_night)(https://github.com/anuraghazra/github-readme-stats)]
