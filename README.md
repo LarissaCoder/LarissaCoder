@@ -15,5 +15,8 @@
 
 [![LarissaCoder's-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=larissacoder&repo=github-readme-stats&cache_seconds=86400&theme=neon)](https://github.com/larissacoder/github-readme-stats)
 
-![LarissaCoder's-readme-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=date_night)
+![LarissaCoder's-readme-stats](https://github-readme-stats.vercel.app/api?username=larissacoder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=date_night)
 
+![LarissaCoder's-readme-stats](https://github-readme-stats.vercel.app/api?username=larissacoder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
+
+![LarissaCoder's-readme-stats](https://github-readme-stats.vercel.app/api?username=larissacoder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni)
