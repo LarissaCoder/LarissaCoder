@@ -5,7 +5,7 @@
 - 💻 Proficient in HTML, CSS, Python, and expanding skills in JavaScript and APIs.
 - 🌱 Passionate about technology and innovation, committed to continuous learning.
 - 👥 Strong communicator and problem solver with a collaborative mindset, adaptable to diverse environments.
-- 📫 Reach me at: [larissasilva2709@gmail.com](mailto:larissasilva2709@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/larissa-regina-da-silva) 
+- 📫 Reach me at: [larissasilva2709@gmail.com](mailto:larissasilva2709@gmail.com) | [!LinkedIn](https://www.linkedin.com/in/larissa-regina-da-silva) 
 
 
 # 💻 Tech Stack:
