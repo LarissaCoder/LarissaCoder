@@ -6,15 +6,13 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 - ⭐ Aspiring Software Engineer eager to kickstart my career in tech.
 - 🎓 Currently studying Software Development with a Bachelor's degree in Library Science.
 - 💻 Proficient in HTML, CSS, Python, and expanding skills in JavaScript and APIs.
+
+
 
 <details>
 <summary>More about me</summary> 
@@ -24,12 +22,16 @@
 - 🌎 Based in Brazil, with dual Italian-Brazilian citizenship, open to opportunities worldwide.
 </details>
 
-##
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
 
 ![LarissaCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissacoder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissacoder&layout=compact&theme=dracula)](https://github.com/larissacoder/github-readme-stats)
 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake.svg">
+</picture>
 ##
 
 ### 🚀 Projects
