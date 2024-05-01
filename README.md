@@ -1,10 +1,5 @@
 ## Hi, I'm Larissa! 👋
 
-<img src="/images/girlAndBook.gif">
-
-<img src="/images/girlFish.gif">
-
-
 - 🚀 Aspiring Software Engineer eager to kickstart my career in tech.
 - 🎓 Currently studying Software Development with a Bachelor's degree in Library Science.
 - 💻 Proficient in HTML, CSS, Python, and expanding skills in JavaScript and APIs.
@@ -31,8 +26,8 @@
 </picture>
 
 ## Projects 🔗
-##
- 🔨 In Progress...
+
+🔨 In Progress...
  
 * Dengue 
 
@@ -40,6 +35,14 @@
 <details>
 <summary>🔥 Skills and Technologies</summary>
 </details>
+
+<img src="/images/girlAndBook.gif">
+
+<audio controls autoplay>
+  <source src="/sounds/light-rain.mp3" type="audio/mp3">
+  Seu navegador não suporta a reprodução de áudio.
+</audio>
+
 
 <!--Art utilizada é de DevianArt () -->
 [![](https://visitcount.itsvg.in/api?id=larissacoder&icon=0&color=0)](https://visitcount.itsvg.in)
