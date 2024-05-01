@@ -35,7 +35,7 @@
 
 <br>
 
-![LarissaCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissacoder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissacoder&layout=compact&theme=omni)](https://github.com/larissacoder/github-readme-stats)
+![LarissaCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissacoder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm_pink) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissacoder&layout=compact&theme=kacho_ga)](https://github.com/larissacoder/github-readme-stats)
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake-dark.svg">
