@@ -18,7 +18,7 @@
 - 🌎 Based in Brazil, with dual Italian-Brazilian citizenship, open to opportunities worldwide.
 </details>
 
-![HTML5](https://skillicons.dev/icons?i=html&perline=3) ![CSS3](https://skillicons.dev/icons?i=css&perline=3) ![JavaScript](https://skillicons.dev/icons?i=js&perline=3) ![Python](https://skillicons.dev/icons?i=python&perline=3) ![Figma](https://skillicons.dev/icons?i=figma&perline=3) ![Markdown](https://skillicons.dev/icons?i=markdown&perline=3) ![Docker](https://skillicons.dev/icons?i=docker&perline=3)
+![HTML5](https://skillicons.dev/icons?i=html&perline=3) ![CSS3](https://skillicons.dev/icons?i=css&perline=3) ![JavaScript](https://skillicons.dev/icons?i=js&perline=3) ![Python](https://skillicons.dev/icons?i=python&perline=3) ![Markdown](https://skillicons.dev/icons?i=markdown&perline=3) ![Figma](https://skillicons.dev/icons?i=figma&perline=3) ![Docker](https://skillicons.dev/icons?i=docker&perline=3) ![vscode](https://skillicons.dev/icons?i=vscode&perline=3) ![pycharm](https://skillicons.dev/icons?i=pycharm&perline=3) ![git](https://skillicons.dev/icons?i=git&perline=3) ![github](https://skillicons.dev/icons?i=github&perline=3) ![linux](https://skillicons.dev/icons?i=linux&perline=3)
 
 
 <br>
