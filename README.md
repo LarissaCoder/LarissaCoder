@@ -2,7 +2,7 @@
 
 <div align="right">
   
-[![linkedin](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/larissa-regina-da-silva)
+[![linkedin](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/larissa-regina-da-silva)&nbsp;
 [![gmail](https://skillicons.dev/icons?i=gmail&perline=3)](mailto:larissasilva2709@gmail.com)
 </div>
 
