@@ -1,12 +1,8 @@
 ## Hi, I'm Larissa! 👋
-<div align="right">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissasilva2709@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-regina-da-silva)
+<img src="/images/girlAndBook.gif">
 
-</div>
-
-![banner](https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif)
+<img src="/images/girlFish.gif">
 
 
 - 🚀 Aspiring Software Engineer eager to kickstart my career in tech.
