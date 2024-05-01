@@ -9,7 +9,6 @@
 - 🚀 Aspiring Software Engineer eager to kickstart my career in tech.
 - 🎓 Currently studying Software Development with a Bachelor's degree in Library Science.
 - 💻 Proficient in HTML, CSS, Python, and expanding skills in JavaScript and APIs.
-<br>
 
 <details>
 <summary>More about me</summary> 
