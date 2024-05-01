@@ -38,9 +38,15 @@
 
 <img src="/images/girlAndBook.gif">
 
+<<<<<<< HEAD
 <audio controls autoplay>
   <source src="/sounds/light-rain.mp3" type="audio/mp3">
   Seu navegador não suporta a reprodução de áudio.
+=======
+
+<audio controls autoplay loop>
+  <source src="/sounds/light-rain.mp3" type="audio/mp3">
+>>>>>>> fa6c0c034a1f65877d8741a54a0526877f82f336
 </audio>
 
 
