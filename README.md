@@ -38,9 +38,9 @@
 
 <img src="/images/girlAndBook.gif">
 
-<audio controls autoplay>
+
+<audio controls autoplay loop>
   <source src="/sounds/light-rain.mp3" type="audio/mp3">
-  Seu navegador não suporta a reprodução de áudio.
 </audio>
 
 
