@@ -15,8 +15,8 @@
 <summary>More about me</summary> 
 
 - 🌱 Passionate about technology and innovation, committed to continuous learning.
-- 👥 Strong communicator and problem solver with a collaborative mindset, adaptable to diverse environments.
 - 🌎 Based in Brazil, with dual Italian-Brazilian citizenship, open to opportunities worldwide.
+- ⚡ I love reading books, manga, and manhwa, watching series, and spending time with my dog and family. I believe our interests shape our perception and problem-solving skills. I'm a strong communicator and problem solver, adaptable to any situation. 📚🎬🐶👨‍👩‍👧‍👦
 </details>
 
 <img alt="[HTML]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"> <img alt="[CSS]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
@@ -58,11 +58,13 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissacoder/larissacoder/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Projects 🔗
+## My Projects 🔗
 
-🔨 In Progress...
- 
-* Dengue
+- [GenreReads - BookGenreGenerator](https://github.com/LarissaCoder/BookGenre_Generator)
+- [Dengue](link)
+
+<br>
+🔨 In Progress... One line at a time.
 
 ##
 
