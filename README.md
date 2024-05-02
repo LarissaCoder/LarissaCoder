@@ -75,7 +75,7 @@
 <!--Arte utilizada é de DevianArt () -->
 ![](https://komarev.com/ghpvc/?username=larissa-coder&color=orange)
 
-[![](https://visitcount.itsvg.in/api?id=larissacoder&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=larissacoder&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
