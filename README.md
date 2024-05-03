@@ -60,7 +60,7 @@
 
 ## My Projects 🔗
 
-- [GenreReads - BookGenreGenerator](https://github.com/LarissaCoder/BookGenre_Generator)
+- [BookLookup - web tool for retrieving information about books](https://github.com/LarissaCoder/BookGenre_Generator)
 - [Dengue](link)
 
 <br>
