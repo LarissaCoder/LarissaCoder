@@ -24,7 +24,7 @@
 <img alt="[Python]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
 <img alt="[Markdown]" height="50" width="50" src="https://skillicons.dev/icons?i=markdown&perline=3">
 <img alt="[Figma]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
-<img alt="[Docker]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+<!-- <img alt="[Docker]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg"> --> docker hided
 <img alt="[VSCode]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
 <img alt="[PyCharm]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PyCharm.svg">
 <img alt="[Github]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
