@@ -24,7 +24,6 @@
 <img alt="[Python]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
 <img alt="[Markdown]" height="50" width="50" src="https://skillicons.dev/icons?i=markdown&perline=3">
 <img alt="[Figma]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
-<!-- <img alt="[Docker]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg"> --> docker hided
 <img alt="[VSCode]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
 <img alt="[PyCharm]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PyCharm.svg">
 <img alt="[Github]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
@@ -32,6 +31,9 @@
 <img alt="[Apple]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Apple.svg">
 <img alt="[Windows]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg">
 <img alt="[Linux]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
+
+
+<!-- <img alt="[Docker]" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg"> --> docker hided
 
 <!-- Segunda versão dos icones
 ![HTML5](https://skillicons.dev/icons?i=html&perline=3) ![CSS3](https://skillicons.dev/icons?i=css&perline=3) ![JavaScript](https://skillicons.dev/icons?i=js&perline=3) ![Python](https://skillicons.dev/icons?i=python&perline=3) ![Markdown](https://skillicons.dev/icons?i=markdown&perline=3) ![Figma](https://skillicons.dev/icons?i=figma&perline=3) ![Docker](https://skillicons.dev/icons?i=docker&perline=3) ![vscode](https://skillicons.dev/icons?i=vscode&perline=3) ![pycharm](https://skillicons.dev/icons?i=pycharm&perline=3) ![git](https://skillicons.dev/icons?i=git&perline=3) ![github](https://skillicons.dev/icons?i=github&perline=3) ![linux](https://skillicons.dev/icons?i=linux&perline=3)
