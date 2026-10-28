@@ -32,7 +32,7 @@
 
 ## My Projects 🧩
 
-- [Análise da Inadimplência Empresarial no Brasil](link)
+- [Análise da Inadimplência Empresarial no Brasil](https://github.com/LarissaCoder/analise-inadimplencia-empresarial-brasil)
 
 
 <br>
